@@ -199,13 +199,18 @@ Potential future improvements:
 - review system
 - ranking collections
 
----
 
-# Setup Instructions
+## Homepage Preview
+<img width="1919" height="908" alt="Homepage" src="https://github.com/user-attachments/assets/a5793f7a-5180-48af-a2d2-8956d0836c91" />
 
-## Backend
+##CollegeDetails_Card Preview
+<img width="1919" height="900" alt="COLLEGEDETAILS_CARD" src="https://github.com/user-attachments/assets/4ae08a6c-80fb-4fbb-9d14-1cdbcd12e097" />
 
-```bash
-cd backend
-npm install
-npm run dev
+##Comparison_page Preview
+<img width="1919" height="912" alt="COMPARISON2" src="https://github.com/user-attachments/assets/24f53379-cccb-4658-aaa2-1511f6f7e298" />
+<img width="1917" height="908" alt="COMPARISON" src="https://github.com/user-attachments/assets/684534c9-9059-40ef-b15b-6863fbc327bf" />
+
+#Bookmarkpage Preview
+<img width="1919" height="902" alt="BOOKMARKS" src="https://github.com/user-attachments/assets/0b9100c6-aa8a-432e-9b26-74899e130b87" />
+
+

@@ -15,10 +15,10 @@ Built as a production-style MVP focused on:
 # Live Demo
 
 ## Frontend
-(Add Vercel URL here)
+(https://college-discovery-platform-eight.vercel.app/)
 
 ## Backend API
-(Add Render URL here)
+(https://college-discovery-backend-r7d6.onrender.com/api/colleges)
 
 ---
 

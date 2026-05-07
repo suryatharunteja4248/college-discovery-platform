@@ -1,6 +1,10 @@
-npm create vite@latest# College Discovery Platform
+# College Discovery Platform
 
-A modern full-stack college discovery and decision-support platform inspired by Collegedunia, Careers360, and Shiksha.
+A modern full-stack college discovery and decision-support platform inspired by:
+
+- Collegedunia
+- Careers360
+- Shiksha
 
 Built as a production-style MVP focused on:
 
@@ -15,10 +19,10 @@ Built as a production-style MVP focused on:
 # Live Demo
 
 ## Frontend
-(https://college-discovery-platform-eight.vercel.app/)
+https://college-discovery-platform-eight.vercel.app/
 
 ## Backend API
-(https://college-discovery-backend-r7d6.onrender.com/api/colleges)
+https://college-discovery-backend-r7d6.onrender.com/api/colleges
 
 ---
 
@@ -199,31 +203,69 @@ Potential future improvements:
 - review system
 - ranking collections
 
+---
+
+# Screenshots
 
 ## Homepage Preview
+
 <img width="1919" height="908" alt="Homepage" src="https://github.com/user-attachments/assets/a5793f7a-5180-48af-a2d2-8956d0836c91" />
-<<<<<<< HEAD:college-discovery-platform/README.md
 
-##CollegeDetails_Card Preview
+---
+
+## College Details Preview
+
 <img width="1919" height="900" alt="COLLEGEDETAILS_CARD" src="https://github.com/user-attachments/assets/4ae08a6c-80fb-4fbb-9d14-1cdbcd12e097" />
 
-##Comparison_page Preview
+---
+
+## Comparison Page Preview
+
 <img width="1919" height="912" alt="COMPARISON2" src="https://github.com/user-attachments/assets/24f53379-cccb-4658-aaa2-1511f6f7e298" />
+
 <img width="1917" height="908" alt="COMPARISON" src="https://github.com/user-attachments/assets/684534c9-9059-40ef-b15b-6863fbc327bf" />
 
-#Bookmarkpage Preview
-<img width="1919" height="902" alt="BOOKMARKS" src="https://github.com/user-attachments/assets/0b9100c6-aa8a-432e-9b26-74899e130b87" />
-=======
+---
 
-##CollegeDetails_Card Preview
-<img width="1919" height="900" alt="COLLEGEDETAILS_CARD" src="https://github.com/user-attachments/assets/4ae08a6c-80fb-4fbb-9d14-1cdbcd12e097" />
+## Bookmark Page Preview
 
-##Comparison_page Preview
-<img width="1919" height="912" alt="COMPARISON2" src="https://github.com/user-attachments/assets/24f53379-cccb-4658-aaa2-1511f6f7e298" />
-<img width="1917" height="908" alt="COMPARISON" src="https://github.com/user-attachments/assets/684534c9-9059-40ef-b15b-6863fbc327bf" />
-
-#Bookmarkpage Preview
 <img width="1919" height="902" alt="BOOKMARKS" src="https://github.com/user-attachments/assets/0b9100c6-aa8a-432e-9b26-74899e130b87" />
 
->>>>>>> 80b44478a3195f0a8cd59fb958c15d149d1a6f9e:college-discovery-platform/frontend/README.md
+---
 
+# Setup Instructions
+
+## Backend
+cd backend
+npm install
+npm run dev
+
+##Frontend
+cd frontend
+npm install
+npm run dev
+
+##Environment Variables
+DATABASE_URL=your_database_url
+PORT=5000
+
+##Future Scope
+
+Potential future improvements:
+
+authentication system
+review system
+exam pages
+recommendation engine
+ranking collections
+advanced filtering
+predictor tools
+
+##Author
+
+Built as a production-style full-stack engineering MVP focused on:
+
+product thinking
+scalable architecture
+rapid execution
+clean decision-support UX
